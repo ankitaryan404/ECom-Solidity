@@ -1,1 +1,2 @@
 # ECom-Solidity
+This project is just a trial of making a full function ecom backend code with solidity. In this project ,I tried to make a gas efficient smart contract with some major security steps like using keccak256 for hashing of id and categories. Some low level programming is also used for some low gas consumption .  It is not completed yet . But I will try to complete it as soon as possible.
